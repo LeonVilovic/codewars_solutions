@@ -1,0 +1,12 @@
+{
+  "name": "js3",
+  "version": "1.0.0",
+  "description": "for codewards kata Battleship field validator",
+  "main": "main.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "author": "Leon",
+  "license": "ISC",
+  "type": "module"
+}

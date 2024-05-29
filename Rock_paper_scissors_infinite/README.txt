@@ -1,0 +1,1 @@
+Solution for https://www.codewars.com/kata/62443a1ea8fca9002346d72c

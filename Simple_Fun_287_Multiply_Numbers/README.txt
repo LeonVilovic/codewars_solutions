@@ -1,0 +1,1 @@
+Code for kata Simple Fun #287: Multiply Numbers on https://www.codewars.com/
