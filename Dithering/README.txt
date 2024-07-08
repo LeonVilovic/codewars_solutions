@@ -1,0 +1,1 @@
+Solution for https://www.codewars.com/kata/5426006a60d777c556001aad
