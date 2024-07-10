@@ -1,1 +1,1 @@
-Code for kata Simple Fun #287: Multiply Numbers on https://www.codewars.com/
+Code for kata Simple Fun #287: Multiply Numbers on https://www.codewars.com/kata/591bc86518ff1ff1fa000051
